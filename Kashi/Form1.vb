@@ -246,6 +246,9 @@ Public Class Form1
 
 
                 End If
+            Else
+
+                Str.AppendLine(Exo.Telop(i).EndTime)
 
 
             End If
